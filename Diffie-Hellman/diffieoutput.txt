@@ -1,0 +1,9 @@
+ubuntu@ubuntu-Veriton-M200-H81:~$ javac diffie.java
+ubuntu@ubuntu-Veriton-M200-H81:~$ java diffie
+The value of P : 23.0
+The value of G : 9.0
+The private key a for Alice : 4.0
+The private key b for Bob : 3.0
+Secret key for the Alice is : 9.0
+Secret Key for the Bob is : 9.0
+
