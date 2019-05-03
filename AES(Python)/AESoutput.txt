@@ -1,0 +1,12 @@
+ubuntu@ubuntu-Veriton-M200-H81:~$ python AES.py
+Enter the plaintext : 
+hello sir
+Enter the key : 
+50
+Cipher text after encryption is : 
+10110111000101110110110010011100101001001110111110110000011110101111110001011001
+·l¤ï°züY
+Plain text after decryption is : 
+01101000011001010110110001101100011011110010000001110011011010010111001000100011
+hello sir
+
