@@ -1,0 +1,7 @@
+ubuntu@ubuntu-Veriton-M200-H81:~$ javac SDES.java
+ubuntu@ubuntu-Veriton-M200-H81:~$ java SDES
+input is: hello
+key is: 1234
+encription is: Ð«QQ¼
+decription is: hello
+
